@@ -180,6 +180,12 @@ The CNN model achieves:
 - [ ] Video upload support
 - [ ] Blockchain for report verification
 
+## Screenshots
+![Home](results_images/screenshots/APP1.jpeg)
+![Home](results_images/screenshots/APP2.jpeg)
+![Home](results_images/screenshots/APP3.jpeg)
+![Home](results_images/screenshots/APP4.jpeg)
+
 ## License
 
 Public Domain
